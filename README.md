@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Amit%20Hasan%20Simanto&fontSize=48&fontColor=F5F3FF&fontAlignY=38&desc=ASPIRING%20AI%20ENGINEER&descSize=16&descColor=67E8F9&descAlignY=58&color=0:0D1117,50:211638,100:12323D&animation=fadeIn" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=560&height=34&lines=Computer+Science+Student+%40+IUBAT;Exploring+Practical+AI+Engineering;LLM+Apps+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+Problem+Solving" alt="Typing animation of my focus areas">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=560&height=34&lines=Computer+Science+Student+%40+IUBAT;Exploring+Practical+AI+Engineering;LLM+Apps+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+Problem+Solving" alt="Typing animation of my focus areas">
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br><br>
 
-<img src="./assets/terminal.svg" width="82%" alt="Animated terminal: whoami, focus, and keep-learning">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=900&color=67E8F9&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=640&height=150&lines=$+whoami;amit-hasan-simanto+%C2%B7+CSE+%40+IUBAT;$+cat+focus.txt;AI+Engineering+%C2%B7+LLM+Apps+%C2%B7+RAG+%C2%B7+Agents" alt="Terminal: whoami, then my focus areas">
 
 <br><br>
 
@@ -39,12 +39,10 @@
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="">
-
 </div>
 
 <a id="about"></a>
-<img src="./assets/sec-about.svg" width="100%" alt="01 About Me">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=01%20%C2%B7%20ABOUT%20ME&fontSize=20&fontColor=F5F3FF&color=0:1A1030,100:0D1117&stroke=2D2150&strokeWidth=1&animation=fadeIn" width="100%" alt="01 About Me">
 
 <br>
 
@@ -71,10 +69,8 @@ amit = {
 }
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
-
 <a id="stack"></a>
-<img src="./assets/sec-stack.svg" width="100%" alt="02 Tech Stack">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=02%20%C2%B7%20TECH%20STACK&fontSize=20&fontColor=F5F3FF&color=0:1A1030,100:0D1117&stroke=2D2150&strokeWidth=1&animation=fadeIn" width="100%" alt="02 Tech Stack">
 
 <br>
 
@@ -104,10 +100,10 @@ amit = {
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+<br>
 
 <a id="interests"></a>
-<img src="./assets/sec-interests.svg" width="100%" alt="03 Areas of Interest">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=03%20%C2%B7%20AREAS%20OF%20INTEREST&fontSize=20&fontColor=F5F3FF&color=0:1A1030,100:0D1117&stroke=2D2150&strokeWidth=1&animation=fadeIn" width="100%" alt="03 Areas of Interest">
 
 <br>
 
@@ -137,7 +133,6 @@ amit = {
 ### The AI focus map
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9'}}}%%
 mindmap
   root((AI Engineer))
     LLM Applications
@@ -158,7 +153,6 @@ mindmap
 ### The kind of AI app I'm learning to build
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9'}}}%%
 flowchart LR
     U([User]) --> UI[React Interface]
     UI --> API[Python API]
@@ -168,6 +162,10 @@ flowchart LR
     API --> LLM
     LLM --> API
     API --> UI
+    classDef front fill:#12323D,stroke:#67E8F9,color:#F5F3FF;
+    classDef core fill:#211638,stroke:#A78BFA,color:#F5F3FF;
+    class U,UI front;
+    class API,RAG,KB,LLM core;
 ```
 
 1. The user types a question in the **React** interface.
@@ -176,10 +174,8 @@ flowchart LR
 4. The **LLM** (large language model) writes the answer using those facts.
 5. The answer travels back through the API to the screen.
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
-
 <a id="repos"></a>
-<img src="./assets/sec-repos.svg" width="100%" alt="04 Featured Repositories">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=04%20%C2%B7%20FEATURED%20REPOSITORIES&fontSize=20&fontColor=F5F3FF&color=0:1A1030,100:0D1117&stroke=2D2150&strokeWidth=1&animation=fadeIn" width="100%" alt="04 Featured Repositories">
 
 <br>
 
@@ -213,15 +209,14 @@ flowchart LR
   </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+<br>
 
 <a id="roadmap"></a>
-<img src="./assets/sec-roadmap.svg" width="100%" alt="05 Learning Roadmap">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=05%20%C2%B7%20LEARNING%20ROADMAP&fontSize=20&fontColor=F5F3FF&color=0:1A1030,100:0D1117&stroke=2D2150&strokeWidth=1&animation=fadeIn" width="100%" alt="05 Learning Roadmap">
 
 <br>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9'}}}%%
 timeline
     title My learning direction
     Foundations : Programming : DSA : Problem Solving
@@ -232,10 +227,8 @@ timeline
 
 <p align="center"><sub>A learning direction, not a claim that every stage is complete.</sub></p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
-
 <a id="activity"></a>
-<img src="./assets/sec-activity.svg" width="100%" alt="06 GitHub Activity">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=06%20%C2%B7%20GITHUB%20ACTIVITY&fontSize=20&fontColor=F5F3FF&color=0:1A1030,100:0D1117&stroke=2D2150&strokeWidth=1&animation=fadeIn" width="100%" alt="06 GitHub Activity">
 
 <br>
 
@@ -251,10 +244,10 @@ timeline
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+<br>
 
 <a id="achievements"></a>
-<img src="./assets/sec-achievements.svg" width="100%" alt="07 Achievements">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=07%20%C2%B7%20ACHIEVEMENTS&fontSize=20&fontColor=F5F3FF&color=0:1A1030,100:0D1117&stroke=2D2150&strokeWidth=1&animation=fadeIn" width="100%" alt="07 Achievements">
 
 <br>
 
@@ -271,10 +264,10 @@ timeline
   </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+<br>
 
 <a id="connect"></a>
-<img src="./assets/sec-connect.svg" width="100%" alt="08 Connect With Me">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=56&text=08%20%C2%B7%20CONNECT%20WITH%20ME&fontSize=20&fontColor=F5F3FF&color=0:1A1030,100:0D1117&stroke=2D2150&strokeWidth=1&animation=fadeIn" width="100%" alt="08 Connect With Me">
 
 <br>
 
@@ -294,12 +287,12 @@ timeline
 
 <br><br>
 
-<img src="./assets/footer.svg" width="100%" alt="">
-
 ### Thanks for visiting my profile.
 
 **If you find a repository useful, consider giving it a ⭐**
 
 <sub>Learning consistently · Building thoughtfully · Growing one project at a time</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:12323D,50:211638,100:0D1117" width="100%" alt="Violet and cyan footer wave">
 
 </div>
