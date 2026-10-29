@@ -1,32 +1,23 @@
 
-<!-- =========================================================
-     AMIT HASAN SIMANTO — GITHUB PROFILE README
-     Theme: Dark Violet + Cyan
-     Primary: #A78BFA | Accent: #67E8F9 | Background: #0D1117
-     ========================================================= -->
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&color=0%3A0D1117%2C50%3A211638%2C100%3A12323D&text=Amit%20Hasan%20Simanto&fontColor=F5F3FF&fontSize=38&fontAlignY=38&desc=Aspiring%20AI%20Engineer&descSize=17&descAlignY=58&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0%3AF7F7FB%2C50%3AEDE7FA%2C100%3ADEEFF3&text=Amit%20Hasan%20Simanto&fontColor=211638&fontSize=38&fontAlignY=38&desc=Aspiring%20AI%20Engineer&descSize=17&descColor=334155&descAlignY=58&animation=fadeIn" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=155&section=header&text=Amit%20Hasan%20Simanto&fontSize=36&fontColor=F5F3FF&fontAlignY=43&desc=ASPIRING%20AI%20ENGINEER&descSize=12&descColor=67E8F9&descAlignY=68&color=0:0D1117,55:211638,100:12323D" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=CSE+Student+%40+IUBAT;Exploring+AI%2C+LLMs+%26+RAG;Building+with+Python+%26+React;Learning+by+Building+Projects" alt="Typing animation introducing Amit's education, interests, and development journey">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=470&height=28&lines=Computer+Science+Student+%40+IUBAT;Exploring+Practical+AI+Engineering;Python+%7C+React+%7C+Problem+Solving" alt="Computer science student exploring AI engineering">
 
 <br>
 
 <a href="https://github.com/amiiiiiitz">
-  <img src="https://img.shields.io/badge/GitHub-amiiiiiitz-17102B?style=flat-square&logo=github&logoColor=F5F3FF" alt="GitHub profile">
+  <img src="https://img.shields.io/badge/GitHub-amiiiiiitz-17102B?style=flat-square&logo=github&logoColor=F5F3FF" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/amit-hasan-simanto-301694346/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-10232F?style=flat-square&logo=linkedin&logoColor=67E8F9" alt="LinkedIn profile">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-12323D?style=flat-square&logo=linkedin&logoColor=67E8F9" alt="LinkedIn">
 </a>
 <a href="mailto:amit.hasan2730@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-211638?style=flat-square&logo=gmail&logoColor=A78BFA" alt="Email Amit">
+  <img src="https://img.shields.io/badge/Email-Contact-211638?style=flat-square&logo=gmail&logoColor=A78BFA" alt="Email">
 </a>
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=amiiiiiitz&style=flat-square&color=6D5AA6&label=PROFILE+VIEWS" alt="Profile views counter">
 
@@ -34,22 +25,34 @@
 
 ---
 
-## Table of Contents
+<div align="center">
 
-- [About Me](#-about-me)
-- [Technologies and Tools](#-technologies-and-tools)
-- [Areas of Interest](#-areas-of-interest)
-- [Featured Repositories](#-featured-repositories)
-- [My Learning Journey](#-my-learning-journey)
-- [GitHub Statistics](#-github-statistics)
-- [Contribution Activity](#-contribution-activity)
-- [Achievements](#-achievements)
-- [Connect With Me](#-connect-with-me)
-- [External Services](#-external-services)
+<table>
+  <tr>
+    <td align="center"><a href="#about-me">01 · About</a></td>
+    <td align="center"><a href="#technologies--tools">02 · Tech Stack</a></td>
+    <td align="center"><a href="#areas-of-interest">03 · Interests</a></td>
+    <td align="center"><a href="#featured-repositories">04 · Repositories</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="#learning-roadmap">05 · Roadmap</a></td>
+    <td align="center"><a href="#github-statistics">06 · Statistics</a></td>
+    <td align="center"><a href="#contribution-activity">07 · Activity</a></td>
+    <td align="center"><a href="#achievements">08 · Achievements</a></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
+
+I'm a third-year Computer Science and Engineering student at IUBAT, developing my programming and application-building skills while exploring practical AI engineering.
+
+I'm interested in how AI systems can be integrated into useful applications, particularly through large language models, retrieval-augmented generation, AI agents, and workflow automation.
+
+My goal is to strengthen my engineering foundations, build meaningful projects, and grow into an AI engineering role.
 
 ```python
 amit = {
@@ -57,11 +60,10 @@ amit = {
     "education": "CSE Student at IUBAT (3rd year)",
     "career_goal": "Aspiring AI Engineer",
     "languages": ["C", "C++", "Python", "JavaScript"],
-    "frontend": ["React", "HTML5", "CSS3", "Tailwind CSS"],
     "interests": [
-        "Artificial Intelligence and Machine Learning",
-        "Large Language Models",
-        "Retrieval-Augmented Generation",
+        "AI and Machine Learning",
+        "LLM Applications",
+        "RAG",
         "AI Agents",
         "Workflow Automation",
     ],
@@ -69,66 +71,70 @@ amit = {
 }
 ```
 
-I'm a third-year Computer Science and Engineering student at IUBAT, developing my programming and application-building skills while exploring practical AI engineering.
+---
 
-I'm interested in how AI systems can be integrated into useful applications, particularly through LLMs, retrieval-augmented generation, AI agents, and automation.
+## Technologies & Tools
 
-My goal is to build a strong engineering foundation, create meaningful projects, and grow into an AI engineering role.
+<div align="center">
+
+**PROGRAMMING LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark" height="38" alt="C, C++, Python, and JavaScript">
+
+<br><br>
+
+**FRONTEND DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" height="38" alt="React, Vite, Tailwind CSS, HTML, and CSS">
+
+<br><br>
+
+**DATA ANALYSIS**
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="38" alt="NumPy and Pandas">
+
+<br><br>
+
+**DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="38" alt="Git, GitHub, and Visual Studio Code">
+
+</div>
+
+### Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-211638?style=flat-square&logo=googlecolab&logoColor=A78BFA" alt="AI and machine learning">
+<img src="https://img.shields.io/badge/LLM%20Applications-211638?style=flat-square&logo=openai&logoColor=67E8F9" alt="LLM applications">
+<img src="https://img.shields.io/badge/RAG-211638?style=flat-square&logo=databricks&logoColor=A78BFA" alt="Retrieval-augmented generation">
+<img src="https://img.shields.io/badge/AI%20Agents-211638?style=flat-square&logo=probot&logoColor=67E8F9" alt="AI agents">
+<img src="https://img.shields.io/badge/Workflow%20Automation-211638?style=flat-square&logo=n8n&logoColor=A78BFA" alt="Workflow automation">
+
+</div>
 
 ---
 
-## ⚡ Technologies and Tools
-
-### Programming Languages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=light" alt="C, C++, Python, and JavaScript" width="280">
-</picture>
-
-### Frontend Development
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=light" alt="React, Vite, Tailwind CSS, HTML, and CSS" width="350">
-</picture>
-
-### Data Analysis
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=numpy,pandas&theme=dark">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=light" alt="NumPy and Pandas" width="140">
-</picture>
-
-### Developer Tools
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Git, GitHub, and Visual Studio Code" width="210">
-</picture>
-
----
-
-## 🌱 Areas of Interest
+## Areas of Interest
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🤖 AI Engineering</h3>
+    <td width="50%" valign="top">
+      <h3>01 · AI Engineering</h3>
       <p>Practical AI applications, LLM integration, RAG pipelines, and AI agents.</p>
     </td>
-    <td width="50%">
-      <h3>⚙️ Application Development</h3>
+    <td width="50%" valign="top">
+      <h3>02 · Application Development</h3>
       <p>Python, React, APIs, and connecting software components into useful products.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>📚 Continuous Learning</h3>
-      <p>Strengthening programming fundamentals, data structures, algorithms, and AI knowledge.</p>
+    <td width="50%" valign="top">
+      <h3>03 · Continuous Learning</h3>
+      <p>Programming fundamentals, data structures, algorithms, and AI knowledge.</p>
     </td>
-    <td width="50%">
-      <h3>🧩 Problem Solving</h3>
+    <td width="50%" valign="top">
+      <h3>04 · Problem Solving</h3>
       <p>Practising coding problems and improving logical thinking through implementation.</p>
     </td>
   </tr>
@@ -136,25 +142,23 @@ My goal is to build a strong engineering foundation, create meaningful projects,
 
 ---
 
-## 📌 Featured Repositories
-
-These are selected repositories from my GitHub. Visit each repository for its current contents and progress.
+## Featured Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Portfolio Website</h3>
-      <p>My personal portfolio website, built to present my background, projects, and achievements.</p>
+      <h3>Portfolio Website</h3>
+      <p>My personal portfolio presenting my background, projects, and achievements.</p>
       <a href="https://github.com/amiiiiiitz/development/tree/main/builtWithAI/amit-portfolio">
         <img src="https://img.shields.io/badge/Source_Code-211638?style=flat-square&logo=github&logoColor=F5F3FF" alt="Portfolio source code">
       </a>
       <a href="https://amit-hasan-portfolio.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-12323D?style=flat-square&logo=vercel&logoColor=67E8F9" alt="View live portfolio">
+        <img src="https://img.shields.io/badge/Live_Demo-12323D?style=flat-square&logo=vercel&logoColor=67E8F9" alt="Live portfolio">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Problem Solving</h3>
-      <p>A collection of programming problem solutions from platforms including Codeforces and LeetCode.</p>
+      <h3>Problem Solving</h3>
+      <p>A collection of programming solutions from platforms including Codeforces and LeetCode.</p>
       <a href="https://github.com/amiiiiiitz/problem-solving">
         <img src="https://img.shields.io/badge/View_Repository-211638?style=flat-square&logo=github&logoColor=F5F3FF" alt="Problem-solving repository">
       </a>
@@ -162,17 +166,17 @@ These are selected repositories from my GitHub. Visit each repository for its cu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗂️ Development</h3>
-      <p>A repository for my software development projects, practical experiments, and technical learning.</p>
+      <h3>Development</h3>
+      <p>Software development projects, practical experiments, and technical learning.</p>
       <a href="https://github.com/amiiiiiitz/development">
         <img src="https://img.shields.io/badge/View_Repository-211638?style=flat-square&logo=github&logoColor=F5F3FF" alt="Development repository">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔎 Explore More</h3>
-      <p>Browse my public repositories to see more of my code, experiments, and learning progress.</p>
+      <h3>More Repositories</h3>
+      <p>Explore my public repositories to follow my coding practice and development journey.</p>
       <a href="https://github.com/amiiiiiitz?tab=repositories">
-        <img src="https://img.shields.io/badge/All_Repositories-12323D?style=flat-square&logo=github&logoColor=67E8F9" alt="All public repositories">
+        <img src="https://img.shields.io/badge/Explore_All-12323D?style=flat-square&logo=github&logoColor=67E8F9" alt="All public repositories">
       </a>
     </td>
   </tr>
@@ -180,128 +184,140 @@ These are selected repositories from my GitHub. Visit each repository for its cu
 
 ---
 
-## 🧭 My Learning Journey
+## Learning Roadmap
 
-My learning direction connects programming fundamentals with practical AI application development.
+<div align="center">
 
-```mermaid
-flowchart TD
-    A["Programming Fundamentals<br/>C, C++, Python"] --> B["Problem Solving<br/>DSA and Coding Practice"]
-    B --> C["Application Development<br/>JavaScript, React, APIs"]
-    C --> D["AI Foundations<br/>Python, Data Analysis, ML"]
-    D --> E["LLM Applications<br/>APIs, Prompting, RAG"]
-    E --> F["AI Agents and Automation"]
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>01</strong><br>
+      <sub>FOUNDATIONS</sub><br><br>
+      Programming<br>
+      DSA<br>
+      Problem Solving
+    </td>
+    <td align="center" width="25%">
+      <strong>02</strong><br>
+      <sub>APPLICATIONS</sub><br><br>
+      Python<br>
+      React<br>
+      APIs
+    </td>
+    <td align="center" width="25%">
+      <strong>03</strong><br>
+      <sub>AI FOUNDATIONS</sub><br><br>
+      Data Analysis<br>
+      Machine Learning<br>
+      AI Concepts
+    </td>
+    <td align="center" width="25%">
+      <strong>04</strong><br>
+      <sub>AI ENGINEERING</sub><br><br>
+      LLMs<br>
+      RAG<br>
+      AI Agents
+    </td>
+  </tr>
+</table>
 
-    classDef base fill:#211638,stroke:#A78BFA,color:#F5F3FF
-    classDef next fill:#12323D,stroke:#67E8F9,color:#F5F3FF
-
-    class A,B,C base
-    class D,E,F next
-```
-
-This diagram represents my learning direction, not a claim that every stage is complete.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=amiiiiiitz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=67E8F9&rank_icon=github">
-    <img src="https://github-readme-stats.vercel.app/api?username=amiiiiiitz&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=334155&icon_color=0891B2&rank_icon=github" height="165" alt="GitHub statistics for amiiiiiitz">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiiiitz&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiiiitz&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=334155" height="165" alt="Most-used programming languages in public repositories">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=amiiiiiitz&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=E5E7EB&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=9CA3AF">
-    <img src="https://streak-stats.demolab.com/?user=amiiiiiitz&hide_border=true&background=FFFFFF&ring=6D28D9&fire=0891B2&currStreakLabel=0891B2&sideLabels=334155&currStreakNum=1F2937&sideNums=1F2937&dates=64748B" height="165" alt="GitHub contribution streak for amiiiiiitz">
-  </picture>
-</p>
-
----
-
-## 📈 Contribution Activity
+</div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=amiiiiiitz&bg_color=0D1117&color=E5E7EB&line=A78BFA&point=67E8F9&area=true&area_color=211638&hide_border=true&custom_title=Contribution%20Activity">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiiiiiitz&bg_color=FFFFFF&color=334155&line=6D28D9&point=0891B2&area=true&area_color=EDE7FA&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph for amiiiiiitz">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/amiiiiiitz?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Code-211638?style=for-the-badge&logo=github&logoColor=F5F3FF" alt="Explore my code on GitHub">
-  </a>
+  <sub>A learning direction, not a claim that every stage is complete.</sub>
 </p>
 
 ---
 
-## 🏆 Achievements
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amiiiiiitz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=67E8F9" height="150" alt="GitHub statistics for amiiiiiitz">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiiiitz&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" height="150" alt="Top languages in public repositories">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=amiiiiiitz&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=E5E7EB&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=9CA3AF" height="150" alt="GitHub contribution streak">
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiiiiiitz&bg_color=0D1117&color=E5E7EB&line=A78BFA&point=67E8F9&area=true&area_color=211638&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph">
+
+<br>
+
+<a href="https://github.com/amiiiiiitz?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Code-211638?style=for-the-badge&logo=github&logoColor=F5F3FF" alt="Explore my code">
+</a>
+
+</div>
+
+---
+
+## Achievements
 
 - **Scholar's List:** Academic achievement certificate.
-- **Programming Contests:** Participation in programming contests.
+- **Programming Contests:** Programming contest participation.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-<p align="center">
-  <a href="https://github.com/amiiiiiitz">
-    <img src="https://img.shields.io/badge/GitHub-211638?style=for-the-badge&logo=github&logoColor=F5F3FF" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/amit-hasan-simanto-301694346/">
-    <img src="https://img.shields.io/badge/LinkedIn-12323D?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn">
-  </a>
-  <a href="mailto:amit.hasan2730@gmail.com">
-    <img src="https://img.shields.io/badge/Email-211638?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://amit-hasan-portfolio.vercel.app/">Portfolio Website</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/amiiiiiitz?tab=repositories">Repositories</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/amiiiiiitz/problem-solving">Problem Solving</a>
-</p>
+<a href="https://github.com/amiiiiiitz">
+  <img src="https://img.shields.io/badge/GitHub-211638?style=for-the-badge&logo=github&logoColor=F5F3FF" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/amit-hasan-simanto-301694346/">
+  <img src="https://img.shields.io/badge/LinkedIn-12323D?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn">
+</a>
+<a href="mailto:amit.hasan2730@gmail.com">
+  <img src="https://img.shields.io/badge/Email-211638?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email">
+</a>
+
+<br><br>
+
+<a href="https://amit-hasan-portfolio.vercel.app/">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/amiiiiiitz?tab=repositories">Repositories</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/amiiiiiitz/problem-solving">Problem Solving</a>
+
+</div>
 
 ---
 
-## 🛠️ External Services
-
-This profile uses the following third-party services to render dynamic images:
+## External Services
 
 | Service | Purpose |
 |---|---|
-| [Capsule Render](https://github.com/kyechan99/capsule-render) | Animated header and banner |
+| [Capsule Render](https://github.com/kyechan99/capsule-render) | Header banner |
 | [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Typing animation |
-| [Shields.io](https://shields.io/) | Profile and social badges |
+| [Shields.io](https://shields.io/) | Badges |
 | [Komarev](https://github.com/antonkomarev/github-profile-views-counter) | Profile view counter |
-| [Skill Icons](https://skillicons.dev/) | Technology icon rows |
-| [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) | GitHub stats and language cards |
+| [Skill Icons](https://skillicons.dev/) | Technology icons |
+| [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) | Statistics and languages |
 | [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) | Contribution streak |
-| [GitHub Readme Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution activity chart |
-| [Mermaid](https://mermaid.js.org/) | Learning roadmap diagram |
+| [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution graph |
+| GitHub Mermaid | Learning roadmap visualization |
 
 ---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0%3A12323D%2C50%3A211638%2C100%3A0D1117">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0%3ADEEFF3%2C50%3AEDE7FA%2C100%3AF7F7FB" width="100%" alt="Decorative violet and cyan footer wave">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:12323D,50:211638,100:0D1117" width="100%" alt="Violet and cyan footer wave">
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile.
 
 **If you find a repository useful, consider giving it a ⭐.**
 
-<sub>Learning consistently. Building thoughtfully. Growing one project at a time.</sub>
+<sub>Learning consistently · Building thoughtfully · Growing one project at a time</sub>
 
 </div>
