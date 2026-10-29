@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0D1117&text=Amit%20Hasan%20Simanto&fontColor=F5F3FF&fontSize=38&fontAlignY=40&desc=ASPIRING%20AI%20ENGINEER%20%7C%20CSE%20STUDENT%20%40%20IUBAT&descSize=13&descColor=67E8F9&descAlignY=65" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0D1117&text=Amit%20Hasan%20Simanto&fontColor=F5F3FF&fontSize=38&fontAlignY=40&desc=ASPIRING%20AI%20ENGINEER%20%7C%20CSE%20STUDENT%20%40%20IUBAT&descSize=13&descColor=67E8F9&descAlignY=66" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
 
 <br>
 
@@ -9,6 +9,7 @@
 <br><br>
 
 <a href="https://amit-hasan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"></a>
+<a href="https://github.com/amiiiiiitz"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F5F3FF" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/amit-hasan-simanto-301694346/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"></a>
 <a href="mailto:amit.hasan2730@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=F5F3FF" alt="Email"></a>
 
@@ -22,14 +23,21 @@
 
 ---
 
-## Navigation
-
 <div align="center">
 
-| [About](#-about-me) | [Tech Stack](#-tech-stack) | [Interests](#-areas-of-interest) | [Projects](#-featured-repositories) |
-|:---:|:---:|:---:|:---:|
-| [Architecture](#-how-i-think-about-ai-applications) | [Roadmap](#-learning-roadmap) | [GitHub Dashboard](#-github-analytics) | [Achievements](#-achievements) |
-| [Activity](#-contribution-activity) | [Connect](#-lets-connect) | [Repositories](#-explore-my-work) | |
+### `01` OVERVIEW　 ·　 `02` DEVELOPMENT　 ·　 `03` ANALYTICS
+
+<a href="#about-me">01 &nbsp; ABOUT</a> &nbsp; ◆ &nbsp;
+<a href="#tech-stack">02 &nbsp; TECH STACK</a> &nbsp; ◆ &nbsp;
+<a href="#areas-of-interest">03 &nbsp; AI INTERESTS</a>
+
+<a href="#featured-repositories">04 &nbsp; PROJECTS</a> &nbsp; ◆ &nbsp;
+<a href="#ai-application-architecture">05 &nbsp; ARCHITECTURE</a> &nbsp; ◆ &nbsp;
+<a href="#learning-roadmap">06 &nbsp; ROADMAP</a>
+
+<a href="#github-analytics">07 &nbsp; ANALYTICS</a> &nbsp; ◆ &nbsp;
+<a href="#achievements">08 &nbsp; ACHIEVEMENTS</a> &nbsp; ◆ &nbsp;
+<a href="#lets-connect">09 &nbsp; CONTACT</a>
 
 </div>
 
@@ -37,51 +45,94 @@
 
 ## 👨‍💻 About Me
 
-I'm a third-year Computer Science and Engineering student at **IUBAT**, interested in building practical software and exploring how AI can solve real-world problems.
+```python
+class AmitHasanSimanto:
+    def __init__(self):
+        self.education = "CSE Student @ IUBAT"
+        self.year = 3
 
-My current direction is **AI Engineering** — developing my programming foundation while learning how to integrate AI models, APIs, retrieval systems, and agent-based workflows into useful applications.
+        self.current_stack = [
+            "Python",
+            "C",
+            "C++",
+            "JavaScript",
+            "React",
+            "Git & GitHub",
+        ]
+
+        self.exploring = [
+            "AI Engineering",
+            "Machine Learning",
+            "LLMs & RAG",
+            "AI Agents",
+            "Backend Development",
+        ]
+
+        self.mindset = "Learn by building"
+
+    def introduce(self):
+        return {
+            "who_am_i": "Computer Science student and aspiring AI engineer",
+            "what_i_do": "Build projects and strengthen software fundamentals",
+            "what_i_am_learning": self.exploring,
+            "how_i_learn": self.mindset,
+            "long_term_goal": (
+                "Build useful, reliable AI-powered applications"
+            ),
+        }
+
+
+me = AmitHasanSimanto()
+print(me.introduce())
+```
+
+I'm a third-year Computer Science and Engineering student at **IUBAT**, building my foundation in software development while working toward practical AI engineering.
+
+I enjoy learning by implementing ideas, solving programming problems, and exploring how AI models and modern software systems can work together to solve real-world challenges.
 
 - 🎓 Pursuing Computer Science and Engineering at IUBAT.
-- 🐍 Developing my Python and problem-solving skills.
+- 🐍 Strengthening my Python and programming fundamentals.
 - ⚛️ Building frontend applications with React and JavaScript.
 - 🤖 Exploring LLMs, retrieval-augmented generation (RAG), and AI agents.
-- 🧩 Learning through hands-on projects, experimentation, and continuous practice.
-- 🎯 Working toward the skills needed to build reliable, practical AI-powered applications.
+- 🧩 Learning through hands-on projects and continuous practice.
+- 🎯 Working toward building useful, reliable AI-powered applications.
 
-I believe in understanding the fundamentals, building consistently, and improving through real implementation rather than just collecting technologies.
+**My approach:** understand the fundamentals, build something useful, test what works, and improve it step by step.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" alt="Python, C++, C, JavaScript">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" alt="Python, C++, C and JavaScript">
 </div>
 
 ### Frontend Development
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" alt="React, HTML, CSS, Tailwind CSS, Vite">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" alt="React, HTML, CSS, Tailwind CSS and Vite">
 </div>
 
-### Tools & Development Environment
+### Tools & Environment
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, Visual Studio Code">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code">
 </div>
 
-### Data & AI Learning
+### Data & AI Exploration
 
 <div align="left">
+
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=67E8F9" alt="NumPy">
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=A78BFA" alt="Pandas">
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-211638?style=flat-square&labelColor=0D1117" alt="Exploring AI and machine learning">
-<img src="https://img.shields.io/badge/LLMs%20%26%20RAG-Learning-12323D?style=flat-square&labelColor=0D1117" alt="Learning LLMs and RAG">
+<img src="https://img.shields.io/badge/AI%20%26%20ML-EXPLORING-211638?style=flat-square&labelColor=0D1117" alt="Exploring AI and machine learning">
+<img src="https://img.shields.io/badge/LLMs%20%26%20RAG-LEARNING-12323D?style=flat-square&labelColor=0D1117" alt="Learning LLMs and RAG">
+
 </div>
 
-<sub>Skills and learning areas are intentionally separated: tools in the learning section represent areas I am exploring, not claims of professional expertise.</sub>
+<sub>Technologies in the exploration section represent learning interests, not claims of professional expertise.</sub>
 
 ---
 
@@ -94,7 +145,7 @@ I believe in understanding the fundamentals, building consistently, and improvin
 | **AI Engineering** | Integrating AI capabilities into practical software applications |
 | **Large Language Models** | Building applications around LLMs and model APIs |
 | **Retrieval-Augmented Generation** | Connecting language models to relevant external knowledge |
-| **AI Agents** | Exploring tool use, multi-step reasoning workflows, and automation |
+| **AI Agents** | Exploring tool use, multi-step workflows, and automation |
 | **Software Development** | Creating usable applications with maintainable code |
 | **Problem Solving** | Strengthening programming fundamentals and algorithmic thinking |
 
@@ -102,9 +153,9 @@ I believe in understanding the fundamentals, building consistently, and improvin
 
 ---
 
-## 🏗️ How I Think About AI Applications
+## 🏗️ AI Application Architecture
 
-I'm interested in learning how the pieces of an AI-powered application fit together — from the user interface and backend API to retrieval, model integration, and evaluation.
+I'm interested in understanding how the pieces of an AI-powered application fit together — from the user interface and backend API to retrieval, model integration, and evaluation.
 
 ```mermaid
 flowchart TD
@@ -114,7 +165,7 @@ flowchart TD
     C --> E["Retrieval Layer<br/>Embeddings · Vector Search"]
     E --> F["Knowledge Sources"]
     D --> G["Response & Validation"]
-    F --> E
+    E --> G
     G --> B
     B --> A
 
@@ -129,35 +180,207 @@ flowchart TD
     class F data
 ```
 
-<sub>This is a conceptual architecture I'm learning about, not a claim that every component has already been implemented in a deployed project.</sub>
+<sub>This diagram illustrates a conceptual architecture I am learning about; it does not imply that every component has already been implemented in a deployed application.</sub>
 
 ---
 
 ## 🚀 Featured Repositories
 
-These links highlight my portfolio, programming practice, and broader development work.
-
 <div align="center">
 
-<a href="https://github.com/amiiiiiitz/development/tree/main/builtWithAI/amit-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amiiiiiitz&repo=development&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C9D1D9&icon_color=67E8F9&bg_color=0D1117" width="48%" alt="Development repository">
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/amiiiiiitz/problem-solving">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=amiiiiiitz&repo=problem-solving&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C9D1D9&icon_color=67E8F9&bg_color=0D1117" width="48%" alt="Problem solving repository">
-</a>
+### 🌐 Portfolio
+
+A personal website showcasing my background and development work.
+
+**Stack:** React · JavaScript · Vite · Tailwind CSS
+
+<a href="https://amit-hasan-portfolio.vercel.app/">LIVE DEMO ↗</a>
+
+<a href="https://github.com/amiiiiiitz/development/tree/main/builtWithAI/amit-portfolio">SOURCE CODE ↗</a>
+
+<a href="https://github.com/amiiiiiitz/development/blob/main/builtWithAI/amit-portfolio/README.md">README ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Problem Solving
+
+A collection of programming practice and solutions organized by platform.
+
+**Focus:** C++ · Python · Algorithms
+
+<a href="https://github.com/amiiiiiitz/problem-solving">EXPLORE REPOSITORY ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Development
+
+A collection of software development projects, experiments, and technical learning.
+
+<a href="https://github.com/amiiiiiitz/development">EXPLORE REPOSITORY ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📂 All Repositories
+
+Browse my repositories to follow my progress, experiments, and projects.
+
+<a href="https://github.com/amiiiiiitz?tab=repositories">BROWSE ALL ↗</a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-### Selected work
+---
 
-| Repository | Description |
-|:---|:---|
-| [Portfolio](https://amit-hasan-portfolio.vercel.app/) | Personal portfolio showcasing my background and development work |
-| [Development](https://github.com/amiiiiiitz/development) | A collection of software development projects and experiments |
-| [Problem Solving](https://github.com/amiiiiiitz/problem-solving) | Programming practice and solutions organized by platform |
+## 🗺️ Learning Roadmap
 
-**Explore:** [Portfolio source code](https://github.com/amiiiiiitz/development/tree/main/builtWithAI/amit-portfolio) · [All repositories](https://github.com/amiiiiiitz?tab=repositories)
+<div align="center">
+
+*My learning journey toward building practical, reliable AI-powered applications.*
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/PHASE_01-FOUNDATIONS-211638?style=for-the-badge&labelColor=0D1117" alt="Phase 1: Foundations">
+
+### Programming Fundamentals
+
+`Python` `C++` `DSA`
+
+`OOP` `Problem Solving`
+
+<sub>Build strong programming habits and fundamentals.</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/PHASE_02-DATA-12323D?style=for-the-badge&labelColor=0D1117" alt="Phase 2: Data">
+
+### Data Analysis
+
+`NumPy` `Pandas` `EDA`
+
+`Data Visualization`
+
+<sub>Explore, understand, and prepare data.</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://img.shields.io/badge/↓-A78BFA?style=flat-square" alt="Next stage">
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/PHASE_03-MACHINE_LEARNING-211638?style=for-the-badge&labelColor=0D1117" alt="Phase 3: Machine Learning">
+
+### ML & Deep Learning Foundations
+
+`ML Concepts` `Evaluation`
+
+`Neural Networks` `PyTorch`
+
+<sub>Understand models and how to evaluate them.</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/PHASE_04-BACKEND-12323D?style=for-the-badge&labelColor=0D1117" alt="Phase 4: Backend">
+
+### Backend Engineering
+
+`Python` `FastAPI` `REST APIs`
+
+`SQL` `PostgreSQL` `Testing`
+
+<sub>Build backends and connect software systems.</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://img.shields.io/badge/↓-A78BFA?style=flat-square" alt="Next stage">
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/PHASE_05-LLM_APPLICATIONS-211638?style=for-the-badge&labelColor=0D1117" alt="Phase 5: LLM Applications">
+
+### LLMs & RAG
+
+`Model APIs` `Embeddings`
+
+`Vector Search` `Retrieval`
+
+<sub>Build applications grounded in relevant information.</sub>
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/PHASE_06-AGENTIC_AI-12323D?style=for-the-badge&labelColor=0D1117" alt="Phase 6: Agentic AI">
+
+### AI Agents & Automation
+
+`Tool Use` `Workflows`
+
+`LangGraph` `Integrations`
+
+<sub>Explore tool-using agents and multi-step workflows.</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://img.shields.io/badge/↓-A78BFA?style=flat-square" alt="Next stage">
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+<img src="https://img.shields.io/badge/PHASE_07-ENGINEERING%20IN%20PRACTICE-211638?style=for-the-badge&labelColor=0D1117" alt="Phase 7: Engineering in Practice">
+
+### Reliable AI Applications
+
+`Evaluation` `Security` `Deployment`
+
+`CI/CD` `Monitoring`
+
+<sub>Turn prototypes into tested, maintainable applications.</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**THE DIRECTION**
+
+`Programming` → `Data` → `ML Foundations` → `Backend` → `LLM Apps` → `AI Agents` → `Production`
+
+</div>
+
+<sub>This is a learning roadmap, not a claim that every phase is complete. Topics can overlap as I build projects and strengthen my fundamentals.</sub>
 
 ---
 
@@ -165,87 +388,58 @@ These links highlight my portfolio, programming practice, and broader developmen
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=amiiiiiitz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=67E8F9&ring_color=A78BFA&include_all_commits=true" alt="GitHub statistics">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amiiiiiitz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=67E8F9&ring_color=A78BFA&include_all_commits=true" alt="GitHub statistics">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiiiitz&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&card_width=340" alt="Most-used programming languages">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiiiitz&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&card_width=340" alt="Most-used programming languages">
 
-</div>
-
-<div align="center">
+<br>
 
 <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=amiiiiiitz&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=8B949E" alt="GitHub contribution streak">
 
-</div>
+<br>
 
-### Contribution activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amiiiiiitz&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=67E8F9&area=true&area_color=211638&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amiiiiiitz&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=67E8F9&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph">
 
 </div>
 
-<sub>These dashboards are generated from GitHub activity and repository data. Counts, language percentages, and streaks can change; language statistics reflect code in repositories, not necessarily proficiency. External chart services may occasionally be unavailable or rate-limited.</sub>
+<sub>Statistics are generated by external services and may be temporarily unavailable. Language percentages represent repository code composition, not proficiency. Contributions and streaks can change over time.</sub>
 
 ---
 
 ## 🏆 Achievements
 
-- 🎓 **Scholar's List** — Academic recognition.
-- 💻 **Programming Contest Participation** — Experience participating in competitive programming.
-
----
-
-## 🗺️ Learning Roadmap
-
-My current learning direction is focused on building strong fundamentals and gradually progressing toward practical AI engineering.
-
-```text
-Programming Fundamentals
-        │
-        ▼
-Python · Data Structures · Problem Solving
-        │
-        ▼
-Data Analysis · NumPy · Pandas
-        │
-        ▼
-Machine Learning & Deep Learning Foundations
-        │
-        ▼
-Backend Development · APIs · Databases
-        │
-        ▼
-LLMs · Embeddings · RAG · Vector Databases
-        │
-        ▼
-AI Agents · Tool Use · Workflow Automation
-        │
-        ▼
-Testing · Evaluation · Deployment · Reliable AI Apps
-```
-
-The goal is to connect these skills through working projects and progressively improve code quality, testing, reliability, and deployment practices.
-
----
-
-## 📈 Contribution Activity
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/FOCUS-CONSISTENT%20LEARNING-A78BFA?style=flat-square&labelColor=0D1117" alt="Consistent learning">
-<img src="https://img.shields.io/badge/METHOD-HANDS--ON%20PROJECTS-67E8F9?style=flat-square&labelColor=0D1117" alt="Hands-on projects">
-<img src="https://img.shields.io/badge/GOAL-PRACTICAL%20AI%20ENGINEERING-C4B5FD?style=flat-square&labelColor=0D1117" alt="Practical AI engineering">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎓 Academic Excellence
+
+**Scholar's List**
+
+Academic recognition for achievement.
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Programming
+
+**Programming Contest Participation**
+
+Experience participating in competitive programming.
+
+</td>
+</tr>
+</table>
 
 </div>
-
-I use GitHub to document my learning, practice programming, and develop projects over time. I'm aiming to make my repositories clearer, more useful, and easier for others to explore.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with fellow developers, students, and people interested in software development and practical AI engineering.
+I'm happy to connect with fellow developers, students, and people interested in software development and practical AI engineering.
 
 <div align="center">
 
@@ -257,7 +451,5 @@ I'm open to connecting with fellow developers, students, and people interested i
 <br><br>
 
 **Learn continuously. Build thoughtfully. Improve consistently.**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=0D1117" width="100%" alt="Dark footer">
 
 </div>
