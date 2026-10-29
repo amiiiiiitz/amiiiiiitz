@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=520&height=30&lines=Computer+Science+Student+%40+IUBAT;Exploring+Practical+AI+Engineering;LLM+Apps+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+Problem+Solving" alt="Typing animation: computer science student exploring AI engineering">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=560&height=34&lines=Computer+Science+Student+%40+IUBAT;Exploring+Practical+AI+Engineering;LLM+Apps+%7C+RAG+%7C+AI+Agents;Python+%7C+React+%7C+Problem+Solving" alt="Typing animation of my focus areas">
 
 <br>
 
@@ -14,19 +14,15 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/YEAR-3rd_Year_CSE-211638?style=flat-square&labelColor=0D1117" alt="Third year CSE">
-<img src="https://img.shields.io/badge/FOCUS-AI_Engineering-211638?style=flat-square&labelColor=0D1117&color=6D5AA6" alt="Focus: AI engineering">
-<img src="https://img.shields.io/badge/LANGUAGES-C_%C2%B7_C++_%C2%B7_Python_%C2%B7_JS-12323D?style=flat-square&labelColor=0D1117" alt="Languages: C, C++, Python, JavaScript">
+<img src="https://img.shields.io/badge/FOCUS-AI_Engineering-211638?style=flat-square&labelColor=0D1117" alt="Focus: AI engineering">
+<img src="https://img.shields.io/badge/LANGUAGES-C_%7C_C++_%7C_Python_%7C_JS-12323D?style=flat-square&labelColor=0D1117" alt="Languages: C, C++, Python, JavaScript">
 <img src="https://komarev.com/ghpvc/?username=amiiiiiitz&style=flat-square&color=6D5AA6&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile views counter">
 
 <br><br>
 
 <img src="./assets/terminal.svg" width="82%" alt="Animated terminal: whoami, focus, and keep-learning">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <table>
   <tr>
@@ -34,13 +30,12 @@
     <td align="center"><a href="#stack">02 · Tech Stack</a></td>
     <td align="center"><a href="#interests">03 · Interests</a></td>
     <td align="center"><a href="#repos">04 · Repositories</a></td>
-    <td align="center"><a href="#roadmap">05 · Roadmap</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="#stats">06 · Statistics</a></td>
-    <td align="center"><a href="#activity">07 · Activity</a></td>
-    <td align="center"><a href="#achievements">08 · Achievements</a></td>
-    <td align="center" colspan="2"><a href="#connect">09 · Connect</a></td>
+    <td align="center"><a href="#roadmap">05 · Roadmap</a></td>
+    <td align="center"><a href="#activity">06 · Activity</a></td>
+    <td align="center"><a href="#achievements">07 · Achievements</a></td>
+    <td align="center"><a href="#connect">08 · Connect</a></td>
   </tr>
 </table>
 
@@ -50,6 +45,8 @@
 
 <a id="about"></a>
 <img src="./assets/sec-about.svg" width="100%" alt="01 About Me">
+
+<br>
 
 I'm a third-year Computer Science and Engineering student at IUBAT, developing my programming and application-building skills while exploring practical AI engineering.
 
@@ -78,6 +75,8 @@ amit = {
 
 <a id="stack"></a>
 <img src="./assets/sec-stack.svg" width="100%" alt="02 Tech Stack">
+
+<br>
 
 <div align="center">
 
@@ -110,7 +109,9 @@ amit = {
 <a id="interests"></a>
 <img src="./assets/sec-interests.svg" width="100%" alt="03 Areas of Interest">
 
-<table>
+<br>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 AI Engineering</h3>
@@ -136,7 +137,7 @@ amit = {
 ### The AI focus map
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9','secondaryColor':'#12323D','tertiaryColor':'#0D1117','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9'}}}%%
 mindmap
   root((AI Engineer))
     LLM Applications
@@ -157,7 +158,7 @@ mindmap
 ### The kind of AI app I'm learning to build
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9','secondaryColor':'#12323D','tertiaryColor':'#0D1117','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9'}}}%%
 flowchart LR
     U([User]) --> UI[React Interface]
     UI --> API[Python API]
@@ -167,10 +168,6 @@ flowchart LR
     API --> LLM
     LLM --> API
     API --> UI
-    classDef edge fill:#12323D,stroke:#67E8F9,color:#F5F3FF;
-    classDef core fill:#211638,stroke:#A78BFA,color:#F5F3FF;
-    class U,UI edge;
-    class API,RAG,KB,LLM core;
 ```
 
 1. The user types a question in the **React** interface.
@@ -184,30 +181,47 @@ flowchart LR
 <a id="repos"></a>
 <img src="./assets/sec-repos.svg" width="100%" alt="04 Featured Repositories">
 
-<div align="center">
+<br>
 
-<a href="https://github.com/amiiiiiitz/problem-solving">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiiiiiitz&repo=problem-solving&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=67E8F9&border_color=2D2150&border_radius=12" width="49%" alt="Problem solving repository card">
-</a>
-<a href="https://github.com/amiiiiiitz/development">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiiiiiitz&repo=development&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=67E8F9&border_color=2D2150&border_radius=12" width="49%" alt="Development repository card">
-</a>
-
-<br><br>
-
-<a href="https://amit-hasan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-Visit_Site-12323D?style=for-the-badge&logo=vercel&logoColor=67E8F9" alt="Live portfolio"></a>
-<a href="https://github.com/amiiiiiitz/development/tree/main/builtWithAI/amit-portfolio"><img src="https://img.shields.io/badge/Portfolio-Source_Code-211638?style=for-the-badge&logo=github&logoColor=A78BFA" alt="Portfolio source code"></a>
-<a href="https://github.com/amiiiiiitz?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-Explore-12323D?style=for-the-badge&logo=github&logoColor=67E8F9" alt="All repositories"></a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Portfolio Website</h3>
+      <p>My personal portfolio presenting my background, projects, and achievements.</p>
+      <a href="https://amit-hasan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-12323D?style=flat-square&logo=vercel&logoColor=67E8F9" alt="Live portfolio"></a>
+      <a href="https://github.com/amiiiiiitz/development/tree/main/builtWithAI/amit-portfolio"><img src="https://img.shields.io/badge/Source_Code-211638?style=flat-square&logo=github&logoColor=A78BFA" alt="Portfolio source code"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Problem Solving</h3>
+      <p>A collection of programming solutions from platforms including Codeforces and LeetCode.</p>
+      <a href="https://github.com/amiiiiiitz/problem-solving"><img src="https://img.shields.io/badge/View_Repository-211638?style=flat-square&logo=github&logoColor=A78BFA" alt="Problem-solving repository"></a>
+      <img src="https://img.shields.io/github/last-commit/amiiiiiitz/problem-solving?style=flat-square&labelColor=0D1117&color=6D5AA6" alt="Last commit">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Development</h3>
+      <p>Software development projects, practical experiments, and technical learning.</p>
+      <a href="https://github.com/amiiiiiitz/development"><img src="https://img.shields.io/badge/View_Repository-211638?style=flat-square&logo=github&logoColor=A78BFA" alt="Development repository"></a>
+      <img src="https://img.shields.io/github/last-commit/amiiiiiitz/development?style=flat-square&labelColor=0D1117&color=6D5AA6" alt="Last commit">
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 More Repositories</h3>
+      <p>Explore my public repositories to follow my coding practice and development journey.</p>
+      <a href="https://github.com/amiiiiiitz?tab=repositories"><img src="https://img.shields.io/badge/Explore_All-12323D?style=flat-square&logo=github&logoColor=67E8F9" alt="All public repositories"></a>
+    </td>
+  </tr>
+</table>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
 
 <a id="roadmap"></a>
 <img src="./assets/sec-roadmap.svg" width="100%" alt="05 Learning Roadmap">
 
+<br>
+
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9','secondaryColor':'#12323D','tertiaryColor':'#0D1117','fontFamily':'monospace','cScale0':'#211638','cScale1':'#12323D','cScale2':'#2D2150','cScale3':'#0F2A33','cScaleLabel0':'#F5F3FF','cScaleLabel1':'#F5F3FF','cScaleLabel2':'#F5F3FF','cScaleLabel3':'#F5F3FF'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#211638','primaryTextColor':'#F5F3FF','primaryBorderColor':'#A78BFA','lineColor':'#67E8F9'}}}%%
 timeline
     title My learning direction
     Foundations : Programming : DSA : Problem Solving
@@ -220,41 +234,31 @@ timeline
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
 
-<a id="stats"></a>
-<img src="./assets/sec-stats.svg" width="100%" alt="06 GitHub Statistics">
+<a id="activity"></a>
+<img src="./assets/sec-activity.svg" width="100%" alt="06 GitHub Activity">
+
+<br>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amiiiiiitz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=67E8F9&border_radius=12" height="170" alt="GitHub statistics for amiiiiiitz">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiiiiiitz&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&border_radius=12" height="170" alt="Top languages in public repositories">
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=amiiiiiitz&hide_border=true&background=0D1117&ring=A78BFA&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=E5E7EB&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=9CA3AF&border_radius=12" height="170" alt="GitHub contribution streak">
 
-</div>
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
-
-<a id="activity"></a>
-<img src="./assets/sec-activity.svg" width="100%" alt="07 Contribution Activity">
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiiiiiitz&bg_color=0D1117&color=E5E7EB&line=A78BFA&point=67E8F9&area=true&area_color=211638&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph">
-
 <br><br>
 
-<img src="https://raw.githubusercontent.com/amiiiiiitz/amiiiiiitz/output/github-snake.svg" width="100%" alt="Snake animation eating my contribution graph">
+<img src="https://img.shields.io/github/followers/amiiiiiitz?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117&color=211638&label=FOLLOWERS" alt="GitHub followers">
+<img src="https://img.shields.io/github/languages/top/amiiiiiitz/problem-solving?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=0D1117&color=12323D&label=TOP+LANGUAGE" alt="Top language in problem-solving">
+<img src="https://img.shields.io/github/repo-size/amiiiiiitz/development?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117&color=211638&label=DEV+REPO+SIZE" alt="Development repository size">
 
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
 
 <a id="achievements"></a>
-<img src="./assets/sec-achievements.svg" width="100%" alt="08 Achievements">
+<img src="./assets/sec-achievements.svg" width="100%" alt="07 Achievements">
 
-<table>
+<br>
+
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 Scholar's List</h3>
@@ -270,7 +274,9 @@ timeline
 <div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
 
 <a id="connect"></a>
-<img src="./assets/sec-connect.svg" width="100%" alt="09 Connect With Me">
+<img src="./assets/sec-connect.svg" width="100%" alt="08 Connect With Me">
+
+<br>
 
 <div align="center">
 
@@ -295,6 +301,5 @@ timeline
 **If you find a repository useful, consider giving it a ⭐**
 
 <sub>Learning consistently · Building thoughtfully · Growing one project at a time</sub>
-
 
 </div>
