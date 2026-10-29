@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=155&section=header&text=Amit%20Hasan%20Simanto&fontSize=36&fontColor=F5F3FF&fontAlignY=43&desc=ASPIRING%20AI%20ENGINEER&descSize=12&descColor=67E8F9&descAlignY=68&color=0:0D1117,55:211638,100:12323D" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
@@ -86,12 +85,6 @@ amit = {
 **FRONTEND DEVELOPMENT**
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" height="38" alt="React, Vite, Tailwind CSS, HTML, and CSS">
-
-<br><br>
-
-**DATA ANALYSIS**
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" height="38" alt="NumPy and Pandas">
 
 <br><br>
 
@@ -207,7 +200,6 @@ amit = {
     <td align="center" width="25%">
       <strong>03</strong><br>
       <sub>AI FOUNDATIONS</sub><br><br>
-      Data Analysis<br>
       Machine Learning<br>
       AI Concepts
     </td>
@@ -298,7 +290,7 @@ amit = {
 
 | Service | Purpose |
 |---|---|
-| [Capsule Render](https://github.com/kyechan99/capsule-render) | Header banner |
+| [Capsule Render](https://github.com/kyechan99/capsule-render) | Header and footer banners |
 | [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) | Typing animation |
 | [Shields.io](https://shields.io/) | Badges |
 | [Komarev](https://github.com/antonkomarev/github-profile-views-counter) | Profile view counter |
@@ -306,7 +298,6 @@ amit = {
 | [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) | Statistics and languages |
 | [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) | Contribution streak |
 | [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | Contribution graph |
-| GitHub Mermaid | Learning roadmap visualization |
 
 ---
 
