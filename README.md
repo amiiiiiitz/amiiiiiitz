@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Animated header: Amit Hasan Simanto, aspiring AI engineer](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/motion-header.svg)](https://amit-hasan-portfolio.vercel.app/)
+[![Animated header: Amit Hasan Simanto, aspiring AI engineer](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/motion-header.svg)](https://amit-hasan-portfolio.vercel.app/)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=Building+my+foundation+in+AI+Engineering;Python+%7C+React+%7C+Problem+Solving;Exploring+LLMs%2C+RAG+%26+AI+Agents;Learning+by+building+real+projects" alt="Animated typing: AI engineering, Python, React, LLMs, RAG and AI agents">
 
@@ -19,7 +19,7 @@
 
 ## 01 / ABOUT ME
 
-[![Animated code editor describing Amit: studies, stack, focus and current mode](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/terminal.svg)](https://amit-hasan-portfolio.vercel.app/)
+[![Animated code editor describing Amit: studies, stack, focus and current mode](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/terminal.svg)](https://amit-hasan-portfolio.vercel.app/)
 
 I'm a third-year Computer Science and Engineering student at **IUBAT**, building my foundation in software development while working toward practical AI engineering.
 
@@ -109,7 +109,7 @@ print(me.introduce())
 
 ## 03 / AREAS OF INTEREST
 
-![Orbit diagram: AI Engineer at the center, with what I'm exploring on the inner orbit and what I build with on the outer orbit](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/focus-orbit.svg)
+![Orbit diagram: AI Engineer at the center, with what I'm exploring on the inner orbit and what I build with on the outer orbit](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/focus-orbit.svg)
 
 | Area | What interests me |
 |:---|:---|
@@ -126,7 +126,7 @@ print(me.introduce())
 
 I'm interested in understanding how the pieces of an AI-powered application fit together, from the user interface and backend API to retrieval, model integration, and validation.
 
-![Animated flow diagram of an AI application: user, React UI, Python API, retrieval layer, knowledge sources and LLM](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/ai-app-flow.svg)
+![Animated flow diagram of an AI application: user, React UI, Python API, retrieval layer, knowledge sources and LLM](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/ai-app-flow.svg)
 
 1. The user types a question in the **React** interface.
 2. The interface sends the request to the **Python API**.
@@ -172,7 +172,7 @@ flowchart TD
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://amit-hasan-portfolio.vercel.app/"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/cover-portfolio.svg" width="100%" alt="Illustrated cover for the portfolio website"></a>
+<a href="https://amit-hasan-portfolio.vercel.app/"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/cover-portfolio.svg" width="100%" alt="Illustrated cover for the portfolio website"></a>
 
 **01 / WEB**<br>
 [**PORTFOLIO ↗**](https://amit-hasan-portfolio.vercel.app/)<br>
@@ -183,7 +183,7 @@ React · JavaScript · Vite · Tailwind CSS<br>
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/amiiiiiitz/problem-solving"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/cover-problem-solving.svg" width="100%" alt="Illustrated cover for the problem-solving repository"></a>
+<a href="https://github.com/amiiiiiitz/problem-solving"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/cover-problem-solving.svg" width="100%" alt="Illustrated cover for the problem-solving repository"></a>
 
 **02 / ALGORITHMS**<br>
 [**PROBLEM SOLVING ↗**](https://github.com/amiiiiiitz/problem-solving)<br>
@@ -195,7 +195,7 @@ C++ · Python · Algorithms
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/amiiiiiitz/development"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/cover-development.svg" width="100%" alt="Illustrated cover for the development repository"></a>
+<a href="https://github.com/amiiiiiitz/development"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/cover-development.svg" width="100%" alt="Illustrated cover for the development repository"></a>
 
 **03 / PROJECTS**<br>
 [**DEVELOPMENT ↗**](https://github.com/amiiiiiitz/development)<br>
@@ -204,7 +204,7 @@ Software development projects, experiments, and technical learning.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/amiiiiiitz?tab=repositories"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/cover-repositories.svg" width="100%" alt="Illustrated cover for all repositories"></a>
+<a href="https://github.com/amiiiiiitz?tab=repositories"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/cover-repositories.svg" width="100%" alt="Illustrated cover for all repositories"></a>
 
 **04 / EVERYTHING**<br>
 [**ALL REPOSITORIES ↗**](https://github.com/amiiiiiitz?tab=repositories)<br>
@@ -220,7 +220,7 @@ Browse my repositories to follow my progress, experiments, and projects.
 
 ## 06 / LEARNING ROADMAP
 
-![Animated learning roadmap in six phases: foundations, machine learning, backend, LLM applications, agentic AI and production](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/roadmap.svg)
+![Animated learning roadmap in six phases: foundations, machine learning, backend, LLM applications, agentic AI and production](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/roadmap.svg)
 
 <div align="center">
 
@@ -311,7 +311,7 @@ I'm happy to connect with fellow developers, students, and people interested in 
 <a href="https://amit-hasan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-211638?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0D1117" alt="Portfolio"></a>
 <a href="mailto:amit.hasan2730@gmail.com"><img src="https://img.shields.io/badge/Email-12323D?style=for-the-badge&logo=gmail&logoColor=F5F3FF&labelColor=0D1117" alt="Email"></a>
 
-[![Animated closing panel: always building the next thing](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/assets/signoff.svg)](https://github.com/amiiiiiitz)
+[![Animated closing panel: always building the next thing](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/signoff.svg)](https://github.com/amiiiiiitz)
 
 <sub>AMIT HASAN SIMANTO / 2026</sub>
 
