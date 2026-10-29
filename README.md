@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Amit Hasan Simanto — Aspiring AI Engineer">
+<img src="https://img.shields.io/badge/AMIT_HASAN_SIMANTO-ASPIRING_AI_ENGINEER-211638?style=for-the-badge&labelColor=0D1117&color=211638" alt="Amit Hasan Simanto — Aspiring AI Engineer">
 
-<br>
+<br><br>
 
 <a href="https://github.com/amiiiiiitz"><img src="https://img.shields.io/badge/GitHub-amiiiiiitz-17102B?style=for-the-badge&logo=github&logoColor=F5F3FF" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/amit-hasan-simanto-301694346/"><img src="https://img.shields.io/badge/LinkedIn-Connect-12323D?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="LinkedIn"></a>
@@ -11,36 +11,20 @@
 
 <br><br>
 
-<img src="./assets/facts.svg" width="100%" alt="Quick facts: CSE 3rd year at IUBAT, four programming languages, AI engineering focus, learn by building">
+<img src="https://img.shields.io/badge/EDUCATION-CSE_·_3rd_Year_·_IUBAT-211638?style=flat-square&labelColor=0D1117" alt="CSE, third year, IUBAT">
+<img src="https://img.shields.io/badge/FOCUS-AI_Engineering-12323D?style=flat-square&labelColor=0D1117" alt="Focus: AI engineering">
+<img src="https://img.shields.io/badge/APPROACH-Learn_by_building-211638?style=flat-square&labelColor=0D1117" alt="Approach: learn by building">
 
-<br>
+<br><br>
 
-<table>
-  <tr>
-    <td align="center"><a href="#about">01 · About</a></td>
-    <td align="center"><a href="#stack">02 · Tech Stack</a></td>
-    <td align="center"><a href="#interests">03 · Interests</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="#architecture">04 · AI Architecture</a></td>
-    <td align="center"><a href="#repos">05 · Repositories</a></td>
-    <td align="center"><a href="#roadmap">06 · Roadmap</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="#activity">07 · Activity</a></td>
-    <td align="center"><a href="#achievements">08 · Achievements</a></td>
-    <td align="center"><a href="#connect">09 · Connect</a></td>
-  </tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%" alt="">
+| [About](#about-me) | [Tech Stack](#tech-stack) | [Interests](#areas-of-interest) | [AI Architecture](#ai-app-architecture) | [Repositories](#featured-repositories) | [Roadmap](#learning-roadmap) | [Connect](#connect-with-me) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 </div>
 
-<a id="about"></a>
-<img src="./assets/sec-about.svg" width="100%" alt="01 About Me">
+---
 
-<br>
+## About Me
 
 I'm a third-year Computer Science and Engineering student at IUBAT, developing my programming and application-building skills while exploring practical AI engineering.
 
@@ -65,12 +49,9 @@ amit = {
 }
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+---
 
-<a id="stack"></a>
-<img src="./assets/sec-stack.svg" width="100%" alt="02 Tech Stack">
-
-<br>
+## Tech Stack
 
 <div align="center">
 
@@ -98,12 +79,9 @@ amit = {
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+---
 
-<a id="interests"></a>
-<img src="./assets/sec-interests.svg" width="100%" alt="03 Areas of Interest">
-
-<br>
+## Areas of Interest
 
 <table width="100%">
   <tr>
@@ -128,20 +106,67 @@ amit = {
   </tr>
 </table>
 
-<br>
+### AI focus map
 
-<img src="./assets/focus-orbit.svg" width="100%" alt="Orbit diagram: AI Engineer at the center. Inner orbit: LLM apps, RAG, AI agents, automation. Outer orbit: Python, React, JavaScript, C and C++, DSA, machine learning.">
+```mermaid
+mindmap
+  root((AI Engineer))
+    LLM Applications
+      Prompting
+      API integration
+    RAG
+      Retrieval
+      Knowledge bases
+    AI Agents
+      Tools
+      Workflows
+    Foundations
+      Python
+      DSA
+      Machine Learning
+```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+---
 
-<a id="architecture"></a>
-<img src="./assets/sec-architecture.svg" width="100%" alt="04 AI App Architecture">
-
-<br>
+## AI App Architecture
 
 The kind of AI application I'm learning to build:
 
-<img src="./assets/ai-app-flow.svg" width="100%" alt="Flow diagram: User, React UI, Python API, RAG Retriever, Knowledge Base, and LLM, with the answer returning to the screen">
+```mermaid
+flowchart LR
+    U([User])
+
+    subgraph FE[Frontend]
+        UI[React UI]
+    end
+
+    subgraph BE[Backend]
+        API[Python API]
+    end
+
+    subgraph AI[AI layer]
+        RAG[RAG Retriever]
+        KB[(Knowledge Base)]
+        LLM[[LLM]]
+    end
+
+    U -- "1 asks" --> UI
+    UI -- "2 request" --> API
+    API -- "3 query" --> RAG
+    RAG <-- "facts" --> KB
+    RAG -- "4 context" --> LLM
+    API <-- "prompt / answer" --> LLM
+    API -- "5 answer" --> UI
+
+    classDef front fill:#12323D,stroke:#67E8F9,stroke-width:2px,color:#F5F3FF;
+    classDef core fill:#211638,stroke:#A78BFA,stroke-width:2px,color:#F5F3FF;
+    class U,UI front;
+    class API,RAG,KB,LLM core;
+    style FE fill:#0D1117,stroke:#67E8F9,stroke-dasharray:5 5;
+    style BE fill:#0D1117,stroke:#A78BFA,stroke-dasharray:5 5;
+    style AI fill:#0D1117,stroke:#A78BFA,stroke-dasharray:5 5;
+    linkStyle default stroke:#67E8F9,stroke-width:2px;
+```
 
 1. The user types a question in the **React** interface.
 2. The interface sends it to the **Python API**.
@@ -149,12 +174,9 @@ The kind of AI application I'm learning to build:
 4. The **LLM** (large language model) writes the answer using those facts.
 5. The answer travels back through the API to the screen.
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+---
 
-<a id="repos"></a>
-<img src="./assets/sec-repos.svg" width="100%" alt="05 Featured Repositories">
-
-<br>
+## Featured Repositories
 
 <table width="100%">
   <tr>
@@ -184,21 +206,24 @@ The kind of AI application I'm learning to build:
   </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+---
 
-<a id="roadmap"></a>
-<img src="./assets/sec-roadmap.svg" width="100%" alt="06 Learning Roadmap">
+## Learning Roadmap
 
-<br>
+```mermaid
+timeline
+    title My learning direction
+    Foundations : Programming : DSA : Problem Solving
+    Applications : Python : React : APIs
+    AI Foundations : Machine Learning : AI Concepts
+    AI Engineering : LLMs : RAG : AI Agents
+```
 
-<img src="./assets/roadmap.svg" width="100%" alt="Learning roadmap: 1 Foundations, 2 Applications, 3 AI Foundations, 4 AI Engineering">
+<p align="center"><sub>A learning direction, not a claim that every stage is complete.</sub></p>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+---
 
-<a id="activity"></a>
-<img src="./assets/sec-activity.svg" width="100%" alt="07 GitHub Activity">
-
-<br>
+## GitHub Activity
 
 <div align="center">
 
@@ -206,12 +231,9 @@ The kind of AI application I'm learning to build:
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+---
 
-<a id="achievements"></a>
-<img src="./assets/sec-achievements.svg" width="100%" alt="08 Achievements">
-
-<br>
+## Achievements
 
 <table width="100%">
   <tr>
@@ -226,12 +248,9 @@ The kind of AI application I'm learning to build:
   </tr>
 </table>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt=""></div>
+---
 
-<a id="connect"></a>
-<img src="./assets/sec-connect.svg" width="100%" alt="09 Connect With Me">
-
-<br>
+## Connect With Me
 
 <div align="center">
 
@@ -240,16 +259,6 @@ The kind of AI application I'm learning to build:
 <a href="mailto:amit.hasan2730@gmail.com"><img src="https://img.shields.io/badge/Email-211638?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"></a>
 
 <br><br>
-
-<a href="https://amit-hasan-portfolio.vercel.app/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/amiiiiiitz?tab=repositories">Repositories</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/amiiiiiitz/problem-solving">Problem Solving</a>
-
-<br><br>
-
-<img src="./assets/footer.svg" width="100%" alt="">
 
 ### Thanks for visiting my profile.
 
