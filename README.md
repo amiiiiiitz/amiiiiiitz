@@ -66,4 +66,148 @@ I approach learning through hands-on development, programming practice, and cont
 
 A personal portfolio showcasing my background, technical interests, achievements, and development work.
 
-**Technologies:** React · JavaScript · V
+**Technologies:** React · JavaScript · Vite · Tailwind CSS
+
+[Live Demo](https://amit-hasan-portfolio.vercel.app/) · [Source Code](https://github.com/amiiiiiitz/development/tree/main/builtWithAI/amit-portfolio) · [README](https://github.com/amiiiiiitz/development/blob/main/builtWithAI/amit-portfolio/README.md)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/amiiiiiitz/problem-solving"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/cover-problem-solving.svg" width="100%" alt="Problem-solving repository cover"></a>
+
+**ALGORITHMS & PROBLEM SOLVING**
+
+### [PROBLEM SOLVING ↗](https://github.com/amiiiiiitz/problem-solving)
+
+A collection of programming practice and problem solutions organized by platform.
+
+**Technologies:** C++ · Python · Algorithms
+
+[Source Code](https://github.com/amiiiiiitz/problem-solving)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/amiiiiiitz/development"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/cover-development.svg" width="100%" alt="Development repository cover"></a>
+
+**SOFTWARE DEVELOPMENT**
+
+### [DEVELOPMENT ↗](https://github.com/amiiiiiitz/development)
+
+A collection of software development projects, experiments, and technical learning.
+
+**Focus:** Software Development · Programming · Practical Implementation
+
+[Source Code](https://github.com/amiiiiiitz/development)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/amiiiiiitz?tab=repositories"><img src="https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/cover-repositories.svg" width="100%" alt="GitHub repositories cover"></a>
+
+**OPEN SOURCE PROFILE**
+
+### [ALL REPOSITORIES ↗](https://github.com/amiiiiiitz?tab=repositories)
+
+Explore my GitHub repositories to follow my projects, programming practice, and technical progress.
+
+[Browse Repositories](https://github.com/amiiiiiitz?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<sub>Project cover images are illustrative artwork, not actual application screenshots.</sub>
+
+---
+
+## AREAS OF INTEREST
+
+![Orbit diagram: AI Engineering and related technical interests](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/focus-orbit.svg)
+
+| Area | Focus |
+|:---|:---|
+| **AI Engineering** | Integrating AI capabilities into practical software applications |
+| **Large Language Models** | Developing applications using LLMs and model APIs |
+| **Retrieval-Augmented Generation** | Connecting language models with relevant external knowledge |
+| **AI Agents** | Exploring tool use, multi-step workflows, and automation |
+| **Software Engineering** | Building maintainable and usable software applications |
+| **Problem Solving** | Developing algorithmic thinking and programming fundamentals |
+
+---
+
+## ACHIEVEMENTS
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+### 🎓 Academic Excellence
+
+**Scholar's List**
+
+Academic recognition for achievement.
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Programming
+
+**Programming Contest Participation**
+
+Experience participating in competitive programming.
+
+</td>
+</tr>
+</table>
+
+---
+
+## LEARNING ROADMAP
+
+![Animated AI engineering learning roadmap](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/roadmap.svg)
+
+<div align="center">
+
+`Programming` → `Machine Learning` → `Backend Development` → `LLM Applications` → `AI Agents` → `Production`
+
+</div>
+
+My learning journey focuses on developing the engineering skills needed to design, build, integrate, and deploy practical AI-powered applications.
+
+<sub>This roadmap represents ongoing learning goals, not a claim that every stage has been completed.</sub>
+
+---
+
+## GITHUB ACTIVITY
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiiiiiitz&theme=github_dark" alt="GitHub contribution summary">
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiiiiiitz&theme=github_dark" alt="Repository language distribution">
+
+</div>
+
+<sub>Statistics are provided by third-party services and may be cached, rate-limited, or temporarily unavailable. Language distribution reflects repository code composition, not individual proficiency. Private contributions may not appear.</sub>
+
+---
+
+## LET'S CONNECT
+
+I'm open to connecting with developers, students, and professionals interested in software development, AI engineering, and building practical technology solutions.
+
+<div align="center">
+
+<a href="https://github.com/amiiiiiitz"><img src="https://img.shields.io/badge/GitHub-211638?style=for-the-badge&logo=github&logoColor=F5F3FF&labelColor=0D1117" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/amit-hasan-simanto-301694346/"><img src="https://img.shields.io/badge/LinkedIn-12323D?style=for-the-badge&logo=linkedin&logoColor=67E8F9&labelColor=0D1117" alt="LinkedIn"></a>
+<a href="https://amit-hasan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-211638?style=for-the-badge&logo=vercel&logoColor=A78BFA&labelColor=0D1117" alt="Portfolio"></a>
+<a href="mailto:amit.hasan2730@gmail.com"><img src="https://img.shields.io/badge/Email-12323D?style=for-the-badge&logo=gmail&logoColor=F5F3FF&labelColor=0D1117" alt="Email"></a>
+
+[![Animated closing panel](https://github.com/amiiiiiitz/amiiiiiitz/raw/main/asssets/signoff.svg)](https://github.com/amiiiiiitz)
+
+**AMIT HASAN SIMANTO · 2026**
+
+</div>
